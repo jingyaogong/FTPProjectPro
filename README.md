@@ -50,10 +50,13 @@ if (pwd_md5 == '14e1b600b1fd579f47433b88e8d85291'){
 ```
 maven项目打包和部署的步骤不作赘述
 实现的效果如图
+
 1、查看文献||显示预览图
+![2](https://user-images.githubusercontent.com/62287848/203890441-ee49c5a1-2870-4872-9782-e4226d9792a7.png)
 
-2、搜索文献||直接打开链接
+2、搜索文献||直接打开链接|翻页
+![2](https://user-images.githubusercontent.com/62287848/203890563-1a64f09c-8d35-4cf1-bd5d-f59971746cf8.png)
 
-3、翻页
+3、影响因子插件效果
+![3](https://user-images.githubusercontent.com/62287848/203890743-da2309e7-5188-48ea-9280-92095c2d2895.png)
 
-4、影响因子插件效果
